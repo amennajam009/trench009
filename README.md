@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA)]
+![MasterHead](https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA)
 
 <h1 align="center">Hi 👋, I'm Amen Najam</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
