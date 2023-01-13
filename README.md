@@ -40,7 +40,7 @@
 
 <a href="http://www.github.com/trench009"><img src="https://github-readme-streak-stats.herokuapp.com/?user=trench009&stroke=ffffff&background=27272a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/trench009"><img src="https://activity-graph.herokuapp.com/graph?username=trench009&bg_color=27272a&color=ffffff&line=0891b2&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/trench009"><img src="https://activity-graph.herokuapp.com/graph?username=trench009&bg_color=27272a&color=ffffff&line=0891b2&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph"/></a>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=trench009&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
